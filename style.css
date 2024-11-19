@@ -55,6 +55,11 @@ h2, p {
     justify-content: center;
 }
 
+.post-action {
+    display: flex; 
+    gap: 15px;
+}
+
 .post-action button {
     background-color: transparent;
     padding: 0;
