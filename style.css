@@ -47,6 +47,7 @@ h2, p {
 .post-img {
     width: 100%;
     min-width: 320px;
+    margin-bottom: 10px;
 }
 
 .post-info {
@@ -57,11 +58,13 @@ h2, p {
 
 .post-likes{
     font-weight: 900;
+    margin-bottom: 5px;
 }
 
 .post-action {
     display: flex; 
     gap: 15px;
+    margin-bottom: 10px;
 }
 
 .post-action button {
