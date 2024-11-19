@@ -46,6 +46,7 @@ h2, p {
 
 .post-img {
     width: 100%;
+    min-width: 320px;
 }
 
 .post-info {
