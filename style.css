@@ -55,6 +55,10 @@ h2, p {
     justify-content: center;
 }
 
+.post-likes{
+    font-weight: 900;
+}
+
 .post-action {
     display: flex; 
     gap: 15px;
