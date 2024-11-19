@@ -26,6 +26,11 @@ h2, p {
     width: 127px;
 }
 
+.post {
+    max-width: 400px;
+    margin: auto;
+}
+
 .profile-image {
     width: 50px;
     border-radius: 50%;
@@ -36,6 +41,10 @@ h2, p {
     align-items: center;
     gap: 7px;
     padding: 10px;
+}
+
+.post-img {
+    width: 100%;
 }
 
 .post-info {
