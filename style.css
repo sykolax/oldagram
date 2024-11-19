@@ -40,8 +40,8 @@ h2, p {
 .post-header {
     display: flex;
     align-items: center;
-    gap: 7px;
-    padding: 10px;
+    gap: 10px;
+    padding: 12px 0;
 }
 
 .post-img {
@@ -54,6 +54,7 @@ h2, p {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    gap: 2px;
 }
 
 .post-likes{
