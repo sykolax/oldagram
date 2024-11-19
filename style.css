@@ -43,3 +43,8 @@ h2, p {
     flex-direction: column;
     justify-content: center;
 }
+
+.post-caption {
+    display: flex;
+    gap: 7px;
+}
