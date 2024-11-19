@@ -55,6 +55,17 @@ h2, p {
     justify-content: center;
 }
 
+.post-action button {
+    background-color: transparent;
+    padding: 0;
+    border: none;
+}
+
+.post-action button img {
+    width: 24px;
+    height: auto;
+}
+
 .post-caption {
     display: flex;
     gap: 7px;
